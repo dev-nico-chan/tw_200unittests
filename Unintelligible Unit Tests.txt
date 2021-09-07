@@ -1,0 +1,19 @@
+ Unintelligible Unit Tests
+
+ 01_NumberOperations should_do_complement_operation()
+ 03_ArrayOperations should_return_shallow_copy_of_an_array_using_clone() // ShallowCopy
+ 04_VariablesAndParameters should_get_copy_of_the_argument_when_passing_by_value_for_value_type()
+ 04_VariablesAndParameters should_get_copy_of_the_argument_when_passing_by_value_for_ref_type()
+ 05_Classes should_initailize_object_properties()
+ 06_Inheritance should_access_member_of_most_derived_class() // always belongs to derived class.
+ 06_Inheritance should_reference_to_same_object_after_casting()
+ 07_Interfaces should_use_explict_interface_impl_if_you_want_to_hide_something_for_certain_type()
+ 07_Interfaces should_invoke_explicitly_implemented_method_by_original_interface()
+ 08_ObjectTypes should_be_sealed_for_value_type()
+ 08_ObjectTypes should_perform_real_copy_operation_for_value_type() // ignored
+ 08_ObjectTypes should_make_explicity_cast_when_doing_unboxing_operation()
+ 13_DelegatesRelated should_be_list_subtraction_rather_than_scalar_subtraction() // stay
+ 19_Enumeration should_always_call_move_next_before_using_dereferenced_value()
+ 21_ImplicitAndExplicitConversions should_implicitly_convert_to_target_type()
+ 21_ImplicitAndExplicitConversions should_explicity_convert_to_target_type()
+ 26_Collectons should_not_rely_on_order_in_hashset()
